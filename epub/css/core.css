@@ -187,11 +187,6 @@ section[epub|type~="copyright-page"] blockquote br{
 		padding-top: 3em;
 	}
 
-	section[epub|type~="imprint"] header{
-		margin-bottom: 2em;
-		margin-top: 0;
-	}
-
 	img[epub|type~="z3998:publisher-logo"]{
 		max-width: 25vw;
 	}
